@@ -1,7 +1,13 @@
 ﻿{
   "dependencies": {
-    "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
-    "Xamarin.Forms": "2.4.0.280"
+    "Microsoft.Bcl": "1.1.10",
+    "Microsoft.Bcl.Build": "1.0.21",
+    "Microsoft.CSharp": "4.4.0",
+    "Microsoft.NETCore.Platforms": "2.0.1",
+    "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3",
+    "SteamWebAPI": "1.0.14.42195",
+    "Xamarin.Forms": "2.5.0.91635"
   },
   "frameworks": {
     "uap10.0": {}
